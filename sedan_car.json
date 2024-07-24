@@ -1,94 +1,298 @@
 {
     "sedan_cars": [
         {
-            "name": "Tata Tigor",
-            "mileage": "20 km/l",
-            "price": "$10,000",
-            "fuel_type": "Petrol"
-        },
-        {
-            "name": "Honda City",
-            "mileage": "18 km/l",
-            "price": "$15,000",
-            "fuel_type": "Petrol"
-        },
-        {
-            "name": "Hyundai Elantra",
-            "mileage": "16 km/l",
-            "price": "$20,000",
-            "fuel_type": "Petrol"
-        },
-        {
-            "name": "Hyundai Aura",
-            "mileage": "22 km/l",
-            "price": "$12,000",
-            "fuel_type": "Diesel"
-        },
-        {
-            "name": "Maruti Ciaz",
-            "mileage": "21 km/l",
-            "price": "$14,000",
-            "fuel_type": "Petrol"
-        },
-        {
-            "name": "Maruti Dzire",
-            "mileage": "23 km/l",
-            "price": "$13,000",
+            "name": "Maruti Suzuki Dzire",
+            "price": "6.09 Lakh",
+            "mileage": "24.12 kmpl",
             "fuel_type": "Petrol"
         },
         {
             "name": "Honda Amaze",
-            "mileage": "19 km/l",
-            "price": "$11,000",
-            "fuel_type": "Diesel"
+            "price": "6.32 Lakh",
+            "mileage": "24.7 kmpl",
+            "fuel_type": "Petrol"
         },
         {
-            "name": "Skoda Slavia",
-            "mileage": "17 km/l",
-            "price": "$18,000",
+            "name": "Hyundai Aura",
+            "price": "5.92 Lakh",
+            "mileage": "25.4 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Tata Tigor",
+            "price": "5.59 Lakh",
+            "mileage": "20.3 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Toyota Yaris",
+            "price": "9.16 Lakh",
+            "mileage": "17.1 kmpl",
             "fuel_type": "Petrol"
         },
         {
             "name": "Hyundai Verna",
-            "mileage": "20 km/l",
-            "price": "$16,000",
-            "fuel_type": "Diesel"
-        },
-        {
-            "name": "Volkswagen Virtus",
-            "mileage": "15 km/l",
-            "price": "$19,000",
+            "price": "9.19 Lakh",
+            "mileage": "17.7 kmpl",
             "fuel_type": "Petrol"
         },
         {
-            "name": "BMW 5 Series",
-            "mileage": "12 km/l",
-            "price": "$50,000",
+            "name": "Maruti Suzuki Ciaz",
+            "price": "8.52 Lakh",
+            "mileage": "20.65 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Skoda Slavia",
+            "price": "10.69 Lakh",
+            "mileage": "18.4 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Volkswagen Virtus",
+            "price": "10.00 Lakh",
+            "mileage": "17.7 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Volkswagen Vento",
+            "price": "9.99 Lakh",
+            "mileage": "17.69 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Volkswagen Jetta",
+            "price": "14.78 Lakh",
+            "mileage": "16.93 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Skoda Octavia",
+            "price": "26.00 Lakh",
+            "mileage": "15.81 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Nissan Sunny",
+            "price": "7.07 Lakh",
+            "mileage": "17.03 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Ford Aspire",
+            "price": "7.24 Lakh",
+            "mileage": "18.5 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Fiat Linea",
+            "price": "7.16 Lakh",
+            "mileage": "14.2 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Honda Civic",
+            "price": "18.17 Lakh",
+            "mileage": "16.5 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Toyota Corolla Altis",
+            "price": "16.45 Lakh",
+            "mileage": "14.28 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Hyundai Elantra",
+            "price": "17.85 Lakh",
+            "mileage": "14.59 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Honda City",
+            "price": "11.16 Lakh",
+            "mileage": "17.8 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Toyota Camry",
+            "price": "40.59 Lakh",
+            "mileage": "19.16 kmpl",
+            "fuel_type": "Hybrid"
+        },
+        {
+            "name": "Skoda Superb",
+            "price": "32.99 Lakh",
+            "mileage": "15.10 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "BMW 3 Series",
+            "price": "42.60 Lakh",
+            "mileage": "16.13 kmpl",
             "fuel_type": "Petrol"
         },
         {
             "name": "Audi A4",
-            "mileage": "14 km/l",
-            "price": "$45,000",
-            "fuel_type": "Diesel"
-        },
-        {
-            "name": "Skoda Superb",
-            "mileage": "18 km/l",
-            "price": "$30,000",
+            "price": "42.34 Lakh",
+            "mileage": "17.42 kmpl",
             "fuel_type": "Petrol"
         },
         {
-            "name": "Mercedes Benz S-Class",
-            "mileage": "10 km/l",
-            "price": "$80,000",
+            "name": "Mercedes-Benz C-Class",
+            "price": "46.00 Lakh",
+            "mileage": "12.06 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Mercedes-Benz E-Class",
+            "price": "63.60 Lakh",
+            "mileage": "12.06 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "BMW 2 Series Gran Coupe",
+            "price": "39.30 Lakh",
+            "mileage": "15.41 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Mercedes-Benz A-Class Limousine",
+            "price": "39.90 Lakh",
+            "mileage": "21.35 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Mercedes-Benz CLA",
+            "price": "42.00 Lakh",
+            "mileage": "17.90 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Jaguar XE",
+            "price": "46.64 Lakh",
+            "mileage": "13.06 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Audi A3",
+            "price": "29.21 Lakh",
+            "mileage": "19.2 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Audi A5",
+            "price": "55.40 Lakh",
+            "mileage": "17.01 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Audi S5",
+            "price": "79.06 Lakh",
+            "mileage": "12.28 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "BMW 5 Series",
+            "price": "63.40 Lakh",
+            "mileage": "15.01 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Audi A6",
+            "price": "61.90 Lakh",
+            "mileage": "17.01 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Jaguar XF",
+            "price": "55.67 Lakh",
+            "mileage": "10.8 kmpl",
             "fuel_type": "Petrol"
         },
         {
             "name": "Lexus ES",
-            "mileage": "13 km/l",
-            "price": "$70,000",
+            "price": "56.00 Lakh",
+            "mileage": "22.37 kmpl",
             "fuel_type": "Hybrid"
+        },
+        {
+            "name": "Lexus LS",
+            "price": "1.91 Crore",
+            "mileage": "15.4 kmpl",
+            "fuel_type": "Hybrid"
+        },
+        {
+            "name": "Mercedes-Benz S-Class",
+            "price": "1.57 Crore",
+            "mileage": "7.08 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Volvo S60",
+            "price": "45.90 Lakh",
+            "mileage": "19.6 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Volvo S90",
+            "price": "61.90 Lakh",
+            "mileage": "15.6 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "BMW 7 Series",
+            "price": "1.41 Crore",
+            "mileage": "39.53 kmpl",
+            "fuel_type": "Hybrid"
+        },
+        {
+            "name": "Audi A8",
+            "price": "1.57 Crore",
+            "mileage": "16.77 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Jaguar XJ",
+            "price": "1.11 Crore",
+            "mileage": "12.9 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Rolls-Royce Ghost",
+            "price": "7.95 Crore",
+            "mileage": "6.71 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Rolls-Royce Phantom",
+            "price": "10.48 Crore",
+            "mileage": "9.8 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Rolls-Royce Wraith",
+            "price": "7.21 Crore",
+            "mileage": "10.2 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Bentley Flying Spur",
+            "price": "3.41 Crore",
+            "mileage": "12.8 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Maserati Ghibli",
+            "price": "1.15 Crore",
+            "mileage": "12.47 kmpl",
+            "fuel_type": "Petrol"
+        },
+        {
+            "name": "Maserati Quattroporte",
+            "price": "1.64 Crore",
+            "mileage": "10.7 kmpl",
+            "fuel_type": "Petrol"
         }
     ]
 }
